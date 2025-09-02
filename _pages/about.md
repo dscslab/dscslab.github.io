@@ -36,8 +36,8 @@ and academic excellence from Florida State University and University of Kalyani.
 
 ## Research
 <div style="text-align: justify;">
-I am the director of the **AI & Remote Sensing Laboratory** at UAH and I also run the **Data Science and Cyber Security 
-Lab** at UAH. Currently, our lab has more than eighteen funded students working on a variety of topics of interest to 
+I am the director of the AI & Remote Sensing Laboratory at UAH and I also run the Data Science and Cyber Security 
+Lab at UAH. Currently, our lab has more than eighteen funded students working on a variety of topics of interest to 
 NASA and the US Department of Defense.
 </div>
 
